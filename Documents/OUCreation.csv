@@ -1,0 +1,5 @@
+﻿name;path;namesubOU;PathsubOU
+Services;OU=LaFiliale,DC=esgi,DC=lab;Direction:Ressources Humaines:Comptabilité:Paye:Informatique;OU=Services,OU=LaFiliale,DC=esgi,DC=lab
+Production;OU=LaFiliale,DC=esgi,DC=lab;Usine:Logistique:Méthodes:Support;OU=Production,OU=LaFiliale,DC=esgi,DC=lab
+Recherche;OU=LaFiliale,DC=esgi,DC=lab;Prospective:Développement:Assurance Qualité;OU=Recherche,OU=LaFiliale,DC=esgi,DC=lab
+Ventes;OU=LaFiliale,DC=esgi,DC=lab;Commercial:Avant-Vente:Consulting;OU=Ventes,OU=LaFiliale,DC=esgi,DC=lab

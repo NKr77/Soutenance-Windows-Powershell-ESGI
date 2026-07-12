@@ -1,0 +1,5 @@
+﻿name;path;namesubOU;PathsubOU
+Services;OU=LaFiliale,DC=Monte,DC=lab;Direction:Ressources Humaines:Comptabilité:Paye:Informatique;OU=Services,OU=LaFiliale,DC=Monte,DC=lab
+Production;OU=LaFiliale,DC=Monte,DC=lab;Usine:Logistique:Méthodes:Support;OU=Production,OU=LaFiliale,DC=Monte,DC=lab
+Recherche;OU=LaFiliale,DC=Monte,DC=lab;Prospective:Développement:Assurance Qualité;OU=Recherche,OU=LaFiliale,DC=Monte,DC=lab
+Ventes;OU=LaFiliale,DC=Monte,DC=lab;Commercial:Avant-Vente:Consulting;OU=Ventes,OU=LaFiliale,DC=Monte,DC=lab
